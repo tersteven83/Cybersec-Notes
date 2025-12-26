@@ -47,7 +47,7 @@ The following artifacts identify the attacker and should be blocked.
 | Target service  | 33.33.33.33:443  | VPN Gateway  |
 
 ## Containment & remediation
-- **Account Lockdown**: Immediately disable the account mane@letsdefend.io to revoke the attacker's active session.
+- **Account Lockdown**: Immediately disable the account `mane@letsdefend.io` to revoke the attacker's active session.
 
 - **Session Termination**: Force terminate any active VPN sessions associated with the user or the source IP.
 
