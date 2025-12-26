@@ -30,7 +30,7 @@ The user manually navigated to the Chrome Web Store to install the extension.
 
 - **File Hash**: The extension file (.crx) hash `7421f9abe5e618a0d517861f4709df53292a5f137053a227bfb4eb8e152a4669` is flagged as malicious by Exodia Labs on VirusTotal.
 
-![Exodia Labs report on Virustotal](./E153-exodia-report.png)
+![Exodia Labs report on Virustotal](../../img/E153-exodia-report.png)
 
 ### Network traffic & C2 Communication
 Immediately following installation, the extension generated traffic to several external domains flagged as malicious.
@@ -39,7 +39,7 @@ Immediately following installation, the extension generated traffic to several e
 
   - **Reputation**: 7/95 malicious on VirusTotal.
 
-![Primary C2](./E153-primaryC2-VT.png)
+![Primary C2](../../img/E153-primaryC2-VT.png)
 
 - **Secondary C2**: Connection to `www.chatgptforgoogle.pro` (Resolving to 52[.]76.101.124).
 
