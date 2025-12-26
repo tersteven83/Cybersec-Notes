@@ -6,9 +6,8 @@ This walkthrough highlights practical investigation steps and maps attacker beha
 
 ## Initial infection and timeline
 The first objective was identifying *when* the system became infected. Memory analysis revealed that the malicious process was created on:
-
-**🕒 2023-04-13 10:06:45 UTC**
-
+ **2023-04-13 10:06:45 UTC**.
+ 
 This timestamp corresponds to the execution of the ransomware process (`mal.exe`) found in the system’s running process list. Process creation time is a reliable indicator of initial compromise during memory-based investigations
 
 ## Identifying the Ransomware
@@ -37,6 +36,7 @@ To ensure it survived reboots, the ransomware modified a Windows autorun registr
 
 - **Path**:
 HKU\...\Software\Microsoft\Windows\CurrentVersion\Run\XO1XADpO01
+
 ![Persistence mechanism report from VT](../img/Lockbit-modified%20reg.png)
 
 This technique allows the ransomware to automatically execute whenever the affected user logs in, maintaining long-term access to the system
