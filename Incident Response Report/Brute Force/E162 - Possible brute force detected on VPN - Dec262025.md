@@ -22,6 +22,7 @@ Investigation confirmed that an external IP address (`37.19.221.229`) executed a
 ## Investigation timeline & analysis
 ### Source analysis
 - **IP Reputation**: The source IP `37.19.221.229` (US) has been reported 62 times in [AbuseIPDB](https://www.abuseipdb.com/check/37.19.221.229) for malicious activities, including Brute Force, DDoS, and Bad Web Bot behavior.
+
 ![Src-IP reputation](E162-ip-reputation.png)
 
 - **Attack Pattern**: The L1 analysis noted the same IP address attempting to log in for different users, indicating a "Password Spraying" or dictionary attack methodology.
