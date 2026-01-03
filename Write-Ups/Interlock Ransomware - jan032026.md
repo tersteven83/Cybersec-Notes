@@ -49,10 +49,10 @@ Your Company has detected a ransomware infection on one of its Linux systems. Th
     ![toNote search in the symbol tree](../img/Interlock-Q7-toNote.png)
     ![toNote function](../img/Interlock-Q7-toNote-code.png)
 
-  - click toNote and there we are,** /!README!.txt**
+  - click toNote and there we are, **/!README!.txt**
 
 8. What is the TOR ransomware link mentioned in the ransomware note?
-   - let's open the malware in DiE (Detect it Easy), go the strings tabs and search for onion and that's it.
+   - let's open the malware in DiE (Detect it Easy), go to the strings tabs and search for onion and that's it.
 
     ![Onion link in DiE](../img/Interlock-Q8-onion-DiE.png)
 
