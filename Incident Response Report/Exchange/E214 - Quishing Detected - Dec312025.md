@@ -65,4 +65,4 @@ The following artifacts were identified for blocking.
 ## Recommendations
 1. **Mobile Security**: Since QR codes are typically scanned by mobile devices (often bypassing corporate endpoint protection), emphasize the risks of scanning codes from unsolicited emails in user training.
 
-- **Image Analysis**: Consider deploying email security solutions capable of OCR (Optical Character Recognition) to decode and inspect QR codes within email bodies.
+2. **Image Analysis**: Consider deploying email security solutions capable of OCR (Optical Character Recognition) to decode and inspect QR codes within email bodies.
