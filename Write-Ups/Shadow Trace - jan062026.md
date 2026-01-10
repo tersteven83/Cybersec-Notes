@@ -1,4 +1,6 @@
 # Shadow Trace
+- Threat hunting & investigation challenge  
+- Focus: log analysis, attacker tracing, reporting
 ## Scenario
 It’s the middle of the night shift. You’re the only analyst in the SOC when a manager calls in urgently: a suspicious file was found on a user's machine and needs immediate review.
 
