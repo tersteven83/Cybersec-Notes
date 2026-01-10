@@ -1,6 +1,7 @@
 # ICS Fuelstation (LetsDefend)
-- **Type**: Threat hunting & network traffic analysis challenge
-- **Focus**: Network analysis
+> - **Type**: Threat hunting & network traffic analysis challenge
+> - **Focus**: Network analysis
+> - **Tools**: Wireshark, NetworkMiner, Google
 
 ## Description
 Demonstrate your threat hunting and network traffic analysis skills by uncovering a C2 communications–related incident. On one of the organization’s critical endpoints, a suspicious file with an unusual extension was flagged by security tooling. Analyze the provided network traffic to trace the attacker’s activity and identify the threat.

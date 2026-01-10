@@ -1,4 +1,9 @@
 # LockBit Ransomware: A Memory Forensics Case Study
+> - **Type**: Threat hunting, Threat intelligence
+> - **Focus**: Malware analysis
+> - **Tools**: VirusTotal
+
+
 ## Introduction
 Ransomware remains one of the most disruptive threats facing organizations today. In this case study, we analyze a **LockBit ransomware infection** using memory forensics and threat intelligence techniques. By examining a compromised Windows memory image, we uncover how the ransomware executed, persisted, and encrypted files on the victim system.
 

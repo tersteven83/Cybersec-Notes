@@ -1,4 +1,8 @@
 # Interlock Ransomware
+> - **Type**: Digital Forensics
+> - **Focus**: Malware analysis
+> - **Tools**: Ghidra, Detect it Easy (DiE) 
+
 Your Company has detected a ransomware infection on one of its Linux systems. This ransomware is designed to encrypt critical files and demand a ransom for their recovery, which significantly disrupts business operations. Once the system is infected, the ransomware scans for valuable data, including sensitive documents and configuration files, and encrypts them using a strong encryption algorithm.
 
 ## Questions and answers
