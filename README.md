@@ -23,15 +23,16 @@ My hands-on labs and challenge solutions (methodology + tooling + key lessons).
 
 ## ⭐ Featured Write-Ups
 
-🔍 **Shadow Trace — TryHackMe**  
-- Threat hunting & investigation challenge  
-- Focus: log analysis, attacker tracing, reporting  
-📄 Write-up: [Shadow Trace](./Write-Ups/Shadow%20Trace%20-%20jan062026.md)
+🔍 **ICS Fuelstation**
+- Threat hunting & network traffic analysis challenge
+- **Focus**: Network analysis
+    
+    📄 Write-up: [ICS Fuelstation](./Write-Ups/ICS%20Fuelstation%20-%20jan072026.md)
 
-🧨 **Interlock Ransomware — Let'sDefend**  
+🧨 **Interlock Ransomware — LetsDefend**  
 - Ransomware detection and response scenario  
 - Focus: alert triage, containment, IR workflow  
-📄 Write-up: [Interlock Ransomware](./Write-Ups/Interlock_Ransomware.md)
+📄 Write-up: [Interlock Ransomware](./Write-Ups/Interlock%20Ransomware%20-%20jan032026.md)
 
 ---
 
