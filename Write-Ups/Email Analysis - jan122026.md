@@ -24,7 +24,7 @@ You recently received an email from someone trying to impersonate a company, you
 
     ![Email sent date](../img/email-Q3-email-sent-date.png)
 
-    - Go down a little bit and found the date
+    - Go down a little bit and find the date
 
     ![Email sent date](../img/email-Q3-email-sent-date-1.png)
 
